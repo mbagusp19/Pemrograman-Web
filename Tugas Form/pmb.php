@@ -97,15 +97,15 @@
             </tr>
             <tr>
                 <td>Alamat*</td>
-                <td><input type="text" name="alamat2" placeholder="Masukkan nama lengkap"></td>
+                <td><input type="text" name="alamat2" placeholder="Masukkan alamat lengkap"></td>
             </tr>
             <tr>
                 <td>Kode Pos*</td>
-                <td><input type="text" name="kodepos2" placeholder="Masukkan nama lengkap"></td>
+                <td><input type="text" name="kodepos2" placeholder="Masukkan kode pos"></td>
             </tr>
             <tr>
                 <td>No Handphone*</td>
-                <td><input type="text" name="nomorhp2" placeholder="Masukkan nama lengkap"></td>
+                <td><input type="text" name="nomorhp2" placeholder="Masukkan no hp"></td>
             </tr>
             <tr>
                 <td>Pendidikan Terakhir Ayah*</td>
@@ -155,11 +155,11 @@
             </tr>
             <tr>
                 <td>Pekerjaan Ayah*</td>
-                <td><input type="text" name="pekerjaayah" placeholder="Masukkan nama lengkap"></td>
+                <td><input type="text" name="pekerjaayah" placeholder="Masukkan pekerjaan ayah"></td>
             </tr>
             <tr>
                 <td>Pekerjaan Ibu*</td>
-                <td><input type="text" name="pekerjaibu" placeholder="Masukkan nama lengkap"></td>
+                <td><input type="text" name="pekerjaibu" placeholder="Masukkan pekerjaan ibu"></td>
             </tr>
         </table>
         <h2>PEMINATAN PROGRAM STUDI</h2>
