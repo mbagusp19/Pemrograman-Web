@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(135deg, #763de8, #c159eb);
+}
+.container{
+    max-width: 1000px;
+    width: 100%;
+    background: #fff;
+    padding: 50px 50px;
+    border-radius: 50px;
+}
+.scroll{
+    width: 100%;
+    padding: 75px 75px;
+    overflow: scroll;
+    height: 500px;
+}
